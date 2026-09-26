@@ -132,7 +132,7 @@ persist.product.lge.motor.popup_cam.default_freq_idx=17
 persist.product.lge.motor.popup_cam.freefall_freq_idx=16
 persist.product.lge.motor.popup_cam.mute_delay=90
 persist.product.lge.motor.popup_cam.retry_count=2
-vendor.camera.aux.packagelist=com.lge.camera,com.lge.cinemagraph,org.codeaurora.snapcam,com.lge.servicemenu
+vendor.camera.aux.packagelist=org.codeaurora.snapcam,org.lineageos.aperture,org.lineageos.aperture.dev
 
 # Chipset
 ro.soc.manufacturer=QTI
