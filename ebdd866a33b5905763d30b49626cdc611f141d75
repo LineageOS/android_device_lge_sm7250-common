@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fd809763_a97abe13",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 31496
+      },
+      "writtenOn": "2026-10-01T00:02:59Z",
+      "side": 1,
+      "message": "not 100% sure if we need to do this, maybe just merge to the regular file?",
+      "revId": "ebdd866a33b5905763d30b49626cdc611f141d75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
